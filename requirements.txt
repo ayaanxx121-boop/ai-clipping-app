@@ -1,4 +1,4 @@
-streamlitstreamlit
+streamlits
 openai-whisper
 moviepy
 transformers
